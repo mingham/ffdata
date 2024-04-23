@@ -2,4 +2,5 @@
 primaryColor="#e86868"
 backgroundColor="#fdfafa"
 secondaryBackgroundColor="#cacdd4"
-textColor="#0c24a4"
+textColor="#000000"
+font="monospace"
