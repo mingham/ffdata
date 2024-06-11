@@ -14,8 +14,13 @@ requests = "^2.31.0"
 streamlit = "^1.33.0"
 plotly = "^5.21.0"
 duckdb = "^0.10.2"
+harlequin = "^1.18.0"
+beautifulsoup4 = "^4.12.3"
 
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.4"
 
 [build-system]
 requires = ["poetry-core"]
